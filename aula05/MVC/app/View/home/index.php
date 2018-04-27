@@ -1,0 +1,1 @@
+<a href="?r=user">List of users</a>
